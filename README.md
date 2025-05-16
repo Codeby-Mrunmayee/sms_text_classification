@@ -23,7 +23,7 @@ Includes `train-data.tsv` and `valid-data.tsv` files to reproduce the results.
 4. Use `predict_message()` to classify new texts
 
 ## Example Output
-Prediction Score: 0.82, Predicted: spam
+Prediction Score: 0.82, Predicted: spam </br>
 Prediction Score: 0.01, Predicted: ham
 
 
